@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="tabs-icon-bookmark-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tabs-icon-bookmark" stroke="#1D1E20">
+            <circle id="Oval" cx="14" cy="14" r="13.5"></circle>
+            <path d="M8.47368421,6 C8.21207564,6 8,6.2185078 8,6.48805084 L8,22.4911066 C8,22.6047419 8.03848543,22.7148156 8.10881954,22.8023454 C8.27565205,23.0099663 8.574252,23.0389299 8.77576119,22.8670374 L13.2395588,19.0593046 C13.6454738,18.7130488 14.2321909,18.710215 14.6412388,19.0525347 L19.2276728,22.8907814 C19.3120981,22.9614344 19.4175503,23 19.5263158,23 C19.7879243,23 20,22.7814922 20,22.5119492 L20,6.48805084 C20,6.2185078 19.7879243,6 19.5263158,6 L8.47368421,6 Z" id="Rectangle" fill="#1D1E20" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

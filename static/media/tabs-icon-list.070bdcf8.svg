@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="tabs-icon-list-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tabs-icon-list">
+            <circle id="Oval" stroke="#1D1E20" cx="14" cy="14" r="13.5"></circle>
+            <path d="M21.6,17.669 L10.400298,17.669 C9.62699021,17.669 9,18.3408085 9,19.1693191 C9,19.9971915 9.62699021,20.669 10.400298,20.669 L21.6,20.669 C22.3730098,20.669 23,19.9971915 23,19.1693191 C23,18.3411277 22.3730098,17.669 21.6,17.669 Z" id="Path" fill="#1D1E20" fill-rule="nonzero"></path>
+            <path d="M21.6,12.669 L10.400298,12.669 C9.62699021,12.669 9,13.3405608 9,14.1691596 C9,14.9974392 9.62699021,15.669 10.400298,15.669 L21.6,15.669 C22.3730098,15.669 23,14.9974392 23,14.1691596 C23,13.34088 22.3730098,12.669 21.6,12.669 Z" id="Path" fill="#1D1E20" fill-rule="nonzero"></path>
+            <path d="M10.400298,10.669 L21.6,10.669 C22.3730098,10.669 23,9.9974392 23,9.16884041 C23,8.34024162 22.3730098,7.669 21.6,7.669 L10.400298,7.669 C9.62699021,7.669 9,8.3405608 9,9.16884041 C9,9.99712001 9.62699021,10.669 10.400298,10.669 Z" id="Path" fill="#1D1E20" fill-rule="nonzero"></path>
+            <circle id="Oval" fill="#1D1E20" fill-rule="nonzero" cx="6.5" cy="9.169" r="1.5"></circle>
+            <circle id="Oval" fill="#1D1E20" fill-rule="nonzero" cx="6.5" cy="14.169" r="1.5"></circle>
+            <circle id="Oval" fill="#1D1E20" fill-rule="nonzero" cx="6.5" cy="19.169" r="1.5"></circle>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="interactive-video-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="interactive-video" transform="translate(1.000000, 1.000000)" fill-rule="nonzero">
+            <circle id="Oval" stroke="#1D1E20" cx="14" cy="14" r="14"></circle>
+            <path d="M10.1818182,20.2222364 L10.1818182,7.60962364 C10.1818182,6.56580909 11.3691836,5.96582 12.2095273,6.58501455 L20.3175636,12.5594 C20.9862545,13.0520727 21.0114545,14.0426364 20.3688545,14.5687818 L12.2608182,21.2069455 C11.4298673,21.8873455 10.1818182,21.2961636 10.1818182,20.2222364 Z" id="Path" fill="#1D1E20"></path>
+        </g>
+    </g>
+</svg>
